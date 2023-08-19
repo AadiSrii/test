@@ -1,0 +1,6 @@
+{{#user}}
+Name: Adarsh Srivastava
+Skills: HTML, CSS, JS
+Email: adarshsrivastava0348@gmail.com
+{{/user}}
+
